@@ -1,6 +1,6 @@
 # Ajaia Collaborative Editor
 
-A lightweight full stack collaborative document editor built for the Ajaia assignment using FastAPI, React, Vite, TypeScript, Zustand, Tiptap, and MongoDB-compatible persistence.
+A lightweight full stack collaborative document editor built using FastAPI, React, Vite, TypeScript, Zustand, Tiptap, and MongoDB-compatible persistence.
 
 ## What Works
 

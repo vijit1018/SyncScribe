@@ -1,6 +1,6 @@
-# Ajaia Collaborative Editor
+# SyncScribe Collaborative Editor
 
-A lightweight full stack collaborative document editor built using FastAPI, React, Vite, TypeScript, Zustand, Tiptap, and MongoDB-compatible persistence.
+A lightweight full-stack collaborative document editor built using FastAPI, React, Vite, TypeScript, Zustand, Tiptap, and MongoDB-compatible persistence.
 
 ## What Works
 
